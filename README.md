@@ -9,9 +9,7 @@
 <!-- <h3 align="center">A passionate Frontend Developer</h3> -->
 <img src="https://www.gozkybrain.com.ng/wp-content/uploads/2023/01/cropped-MY-ICON.png" align="right" alt="My image">
 
-<p align="left"> <a href="https://twitter.com/gozkybrain4u" target="blank"><img
-            src="https://img.shields.io/twitter/follow/gozkybrain4u?logo=twitter&style=for-the-badge"
-            alt="gozkybrain4u" /></a> </p>
+
 
 - 🌱 I’m currently learning **React JS & Node JS**
 
