@@ -1,42 +1,7 @@
-  <!-- ======= About Section ======= -->
-    <section id="about" class="about">
-      <div class="container">
+## Hey 👋, This is Gozie Brain Izuka
+[![Gmail Badge](https://img.shields.io/badge/-gozkybrain@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:gozkybrain@gmail.com)](mailto:gozkybrain@gmail.com) [![Github Badge](https://img.shields.io/badge/-gozkybrain-grey?style=flat&logo=github&logoColor=white&link=https://github.com/gozkybrain/)](https://www.github.com/gozkybrain/) [![Twitter Badge](https://img.shields.io/badge/-gozkybrain4u-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/gozkybrain4u/)](https://www.twitter.com/gozkybrain4u/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://github.com/Gozkybrain/about-me/)](https://github.com/Gozkybrain/about-me/) <p align='left'>Innovative and deadline-driven Developer with 3+ years of experience researching and developing solutions that meet client satisfaction from initial concept to final, polished deliverable. I make the whole concept of developing, a whole vibe - A Normal Life is Boring.</p>
+## Some of my Github Stats
+<p align=left> <img src=https://komarev.com/ghpvc/?username=gozkybrain alt=gozkybrain /> </p>
 
-        <div class="section-title">
-          <h2>A little about me</h2>
-        </div>
-
-        <div class="row">
-          <div class="col-lg-3" data-aos="fade-right">
-            <img src="assets/img/brain.jpg" class="img-fluid myImg myImg" alt="">
-          </div>
-          <div class="col-lg-9 pt-4 pt-lg-0 content" data-aos="fade-left">
-            <h3>Mobile &amp; Web Developer.</h3>
-            <div class="row">
-              <div class="col-lg-6">
-                <ul>
-                  <li><i class="bi bi-chevron-right"></i> <strong>Name:</strong> <span>Izuka Chigozie Emmanuel
-                      Brain</span></li>
-                  <li><i class="bi bi-chevron-right"></i> <strong>Nationality:</strong> <span>Nigeria 🇳🇬</span></li>
-                  <li><i class="bi bi-chevron-right"></i> <strong>College Degree:</strong> <span>Industrial
-                      Microbiology</span></li>
-                </ul>
-              </div>
-              <div class="col-lg-6">
-                <ul>
-                  <li><i class="bi bi-chevron-right"></i> <strong>Aliases:</strong> <span>Gozkybrain Izuka, Sarcastic
-                      Geek</span></li>
-                  <li><i class="bi bi-chevron-right"></i> <strong>Zodiac:</strong> <span>Leo</span></li>
-                  <li><i class="bi bi-chevron-right"></i> <strong>Freelance:</strong> <span>Available</span></li>
-                </ul>
-              </div>
-            </div>
-            <p>
-              <strong>Note:</strong> I'm available to work Remote and Hybrid.
-              I am also available to work physically and relocate regardless of location.
-            </p>
-          </div>
-        </div>
-
-      </div>
-    </section><!-- End About Section -->
+[![Github stats](https://github-readme-stats.vercel.app/api?username=gozkybrain&show_icons=true&include_all_commits=true)](https://github.com/gozkybrain/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gozkybrain&layout=compact)](https://github.com/gozkybrain/github-readme-stats)
