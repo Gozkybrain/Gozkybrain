@@ -1,7 +1,7 @@
 <h1 align="center"> Gozie Brain Izuka
     
 [![Gmail Badge](https://img.shields.io/badge/-gozkybrain@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:gozkybrain@gmail.com)](mailto:gozkybrain@gmail.com) 
-[![Github Badge](https://img.shields.io/badge/-gozkybrain-grey?style=flat&logo=github&logoColor=white&link=https://github.com/gozkybrain/)](https://www.github.com/gozkybrain/) 
+[![Github Badge](https://img.shields.io/badge/-gozkybrain-grey?style=flat&logo=github&logoColor=white&link=https://github.com/gozkybrain/)](https://www.github.com/gozkybrain/about-me) 
 [![Twitter Badge](https://img.shields.io/badge/-gozkybrain4u-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/gozkybrain4u/)](https://www.twitter.com/gozkybrain4u/) 
 [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://github.com/Gozkybrain/about-me/)](https://github.com/Gozkybrain/about-me/) 
 
