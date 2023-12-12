@@ -5,4 +5,4 @@
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=gozkybrain&show_icons=true&include_all_commits=true)](https://github.com/gozkybrain/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gozkybrain&layout=compact)](https://github.com/gozkybrain/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=gozkybrain&theme=midnight-purple)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=gozkybrain&theme=light)](https://git.io/streak-stats)
