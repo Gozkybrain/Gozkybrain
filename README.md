@@ -8,7 +8,7 @@
 </h1>
 
 <p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GrandMoff100&theme=github"
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gozkybrain&theme=github"
 <pi>
 
 <p align='left'>Innovative and deadline-driven Developer with 3+ years of experience researching and developing solutions that meet client satisfaction from initial concept to final, polished deliverable. I make the whole concept of developing, a whole vibe - A Normal Life is Boring.</p>
