@@ -17,3 +17,14 @@
 
 
 
+## Hey 👋, This is Gozie Brain Izuka
+[![Github Badge](https://img.shields.io/badge/-gozkybrain-grey?style=flat&logo=github&logoColor=white&link=https://github.com/gozkybrain/)](https://www.github.com/gozkybrain/) 
+## Some of my Github Stats
+<p align=left> <img src=https://komarev.com/ghpvc/?username=gozkybrain alt=gozkybrain /> </p>
+
+[![Github stats](https://github-readme-stats.vercel.app/api?username=gozkybrain&show_icons=true&include_all_commits=true)](https://github.com/gozkybrain/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gozkybrain&layout=compact)](https://github.com/gozkybrain/github-readme-stats)
+
+
+
+
