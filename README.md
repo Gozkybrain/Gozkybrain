@@ -36,10 +36,6 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 
-# 📊 GitHub Stats:
-<p align=left> <img src="https://komarev.com/ghpvc/?username=gozkybrain" alt="gozkybrain" /> </p>
 
-![](https://github-readme-stats.vercel.app/api?username=gozkybrain&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=gozkybrain&theme=default&hide_border=false)<br/>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
