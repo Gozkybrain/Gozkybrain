@@ -28,8 +28,8 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 
 
-![Your Stats](https://github-readme-stats.vercel.app/api?username=gozkybrain&show_icons=true&hide_title=true&theme=radical)
 ![Your Streak](https://github-readme-streak-stats.herokuapp.com/?user=gozkybrain&theme=radical)
+
 
 
 
