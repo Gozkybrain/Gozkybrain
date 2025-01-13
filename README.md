@@ -28,7 +28,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 
 
-![Your Streak](https://github-readme-streak-stats.herokuapp.com/?user=gozkybrain&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com?user=gozkybrain)](https://git.io/streak-stats)
 
 
 
