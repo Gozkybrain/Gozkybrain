@@ -30,3 +30,4 @@
 
 
 
+[![GitHub Streak](https://github-readme-streak-stats-alpha-pink.vercel.app?user=Gozkybrain&theme=onedark-duo)](https://git.io/streak-stats)
