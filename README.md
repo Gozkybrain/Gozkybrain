@@ -1,4 +1,4 @@
-<h1 align="center"> Gozie Brain Izuka
+<h1 align="center"> Gozie Brain Izuka E.
     
 [![Gmail Badge](https://img.shields.io/badge/-gozkybrain@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:gozkybrain@gmail.com)](mailto:gozkybrain@gmail.com) 
 [![Github Badge](https://img.shields.io/badge/-gozkybrain-grey?style=flat&logo=github&logoColor=white&link=https://github.com/gozkybrain/)](https://gozkybrain.netlify.app/) 
