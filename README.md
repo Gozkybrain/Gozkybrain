@@ -23,4 +23,5 @@
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 
-[![GitHub Streak](https://github-readme-streak-stats-alpha-pink.vercel.app?user=Gozkybrain&theme=onedark-duo)](https://git.io/streak-stats)
+
+<p align="center"><img src="https://github-readme-streak-stats-alpha-pink.vercel.app?user=Gozkybrain&theme=onedark-duo&card_width=550" alt="GitHub Streak" /></p>
