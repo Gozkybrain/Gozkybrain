@@ -2,7 +2,7 @@
     
 [![Gmail Badge](https://img.shields.io/badge/-gozkybrain@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:gozkybrain@gmail.com)](mailto:gozkybrain@gmail.com) 
 [![Github Badge](https://img.shields.io/badge/-gozkybrain-grey?style=flat&logo=github&logoColor=white&link=https://github.com/gozkybrain/)](https://geebrain.sarcasticgeeks.com/) 
-[![Twitter Badge](https://img.shields.io/badge/-gozkybrain4u-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/gozkybrain4u/)](https://www.twitter.com/gozkybrain4u/) 
+[![Twitter Badge](https://img.shields.io/badge/Gozkybrain4u-000000?style=for-the-badge&logo=x&logoColor=white)](https://www.twitter.com/gozkybrain4u/) 
 </h1>
 
 <p align="center">
