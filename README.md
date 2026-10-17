@@ -1,7 +1,7 @@
 <h1 align="center"> Gozie Brain Izuka E.
     
 [![Gmail Badge](https://img.shields.io/badge/-gozkybrain@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:gozkybrain@gmail.com)](mailto:gozkybrain@gmail.com) 
-[![Github Badge](https://img.shields.io/badge/-gozkybrain-grey?style=flat&logo=github&logoColor=white&link=https://github.com/gozkybrain/)](https://gozkybrain.netlify.app/) 
+[![Github Badge](https://img.shields.io/badge/-gozkybrain-grey?style=flat&logo=github&logoColor=white&link=https://github.com/gozkybrain/)](https://geebrain.sarcasticgeeks.com/) 
 [![Twitter Badge](https://img.shields.io/badge/-gozkybrain4u-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/gozkybrain4u/)](https://www.twitter.com/gozkybrain4u/) 
 </h1>
 
@@ -9,7 +9,7 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gozkybrain&theme=github"
         </p>
 
-<p align='left'>Innovative and deadline-driven Developer with 5+ years of experience researching and developing solutions that meet client satisfaction using the easiest, yet effective approach possible. I make the whole concept of developing, a whole vibe - A Normal Life is Boring.</p>
+<p align='left'>Deadline-driven, innovation-obsessed Developer with 10+ years of shipping solutions clients actually love. Fast, effective, and allergic to boring builds. A Normal Life is Boring.</p>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
