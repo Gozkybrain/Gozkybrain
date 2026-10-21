@@ -9,7 +9,7 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gozkybrain&theme=github"
         </p>
 
-<p align='left'>Innovation Obsessed - Deadline-driven, Developer with 10+ years of shipping solutions clients actually love. Fast, effective, and allergic to boring builds. A Normal Life is Boring.</p>
+<p align='left'>Innovation Obsessed - Deadline-driven, Developer with 10+ years of shipping solutions that meet clients requirement. Fast, effective, and allergic to boring builds. A Normal Life is Boring.</p>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
